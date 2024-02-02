@@ -1,0 +1,46 @@
+{
+  "property": {
+    "name": "Sunset Residences",
+    "address": "456 Tranquil Lane, Urban City",
+    "type": "Apartments"
+  },
+  "blocks": [
+    {
+      "block_name": "A Building",
+      "floors": 8,
+      "units": [
+        {
+          "unit_number": "101",
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "occupancy_status": "Occupied",
+          "details": {
+            "area": "900 sq ft",
+            "floor": 1,
+            "floor_text": "Ground Floor"
+          }
+        },
+        {
+          "unit_number": "102",
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "occupancy_status": "Vacant",
+          "details": {
+            "area": "1100 sq ft",
+            "floor": 2,
+            "floor_text": "First Floor"
+          }
+        },
+        {
+          "unit_number": "103",
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "occupancy_status": "Occupied",
+          "details": {
+            "area": "700 sq ft",
+            "floor": 2,
+            "floor_text": "First Floor"
+          }
+        }
+        // Add more units as needed
+      
